@@ -1,0 +1,12 @@
+2024-09-12 16:10:47.5851 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-12 16:10:47.6311 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-12 16:10:47.6311 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Aykudo\source\repos\NLogWebApiDemo\NLogWebApiDemo\nlog.config
+2024-09-12 16:10:47.6454 Info Configuration initialized.
+2024-09-12 16:18:59.2251 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-12 16:18:59.2458 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-12 16:18:59.2458 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Aykudo\source\repos\NLogWebApiDemo\NLogWebApiDemo\nlog.config
+2024-09-12 16:18:59.2610 Info Configuration initialized.
+2024-09-12 16:27:57.7464 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-12 16:27:57.7689 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-09-12 16:27:57.7689 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Aykudo\source\repos\NLogWebApiDemo\NLogWebApiDemo\nlog.config
+2024-09-12 16:27:57.7875 Info Configuration initialized.
